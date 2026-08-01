@@ -3,7 +3,7 @@
   "identifier": "com.skyradar.source",
   "subtitle": "Personal sideload source",
   "description": "Private app source for personal builds. Not affiliated with any vendor.",
-  "website": "",
+  "website": "https://github.com/scavone/skyradar-releases",
   "apps": [
     {
       "name": "SkyRadar",
@@ -15,17 +15,17 @@
       "versions": [
         {
           "version": "1.0.1",
-          "buildVersion": "1",
-          "date": "2026-08-01T15:38:46Z",
+          "buildVersion": "2",
+          "date": "2026-08-01T15:53:51Z",
           "size": 229386,
-          "sha256": "38ec949eaa7de5fb25c76856009814ff44cc57e5036040d954557927bf175e58",
+          "sha256": "9ae279d14ffdac7dbbff672f76a70007cbddbf3c8dd98ec846e9d595f67cc64e",
           "downloadURL": "https://github.com/scavone/skyradar-releases/releases/download/v1.0.1/SkyRadar.ipa",
           "minOSVersion": "17.0"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/scavone/skyradar-releases/main/icon.png",
       "version": "1.0.1",
-      "versionDate": "2026-08-01T15:38:46Z",
+      "versionDate": "2026-08-01T15:53:51Z",
       "versionDescription": "",
       "downloadURL": "https://github.com/scavone/skyradar-releases/releases/download/v1.0.1/SkyRadar.ipa",
       "size": 229386
