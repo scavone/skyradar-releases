@@ -15,12 +15,13 @@
       "versions": [
         {
           "version": "1.0.2",
-          "buildVersion": "4",
-          "date": "2026-08-01T16:34:53Z",
+          "buildVersion": "5",
+          "date": "2026-08-01T16:54:19Z",
           "size": 280764,
-          "sha256": "605a42b2ea49f679b33e7d16a74c8c6075b943f3372b2f2a3952f0ee15d2b75c",
+          "sha256": "776f1f1096c8ff3dba3a2ebcd5df2278bdddfc0be63fad9612dc62b56fec453c",
           "downloadURL": "https://github.com/scavone/skyradar-releases/releases/download/v1.0.2/SkyRadar.ipa",
-          "minOSVersion": "17.0"
+          "minOSVersion": "17.0",
+          "localizedDescription": "\u2022 Private trackers are now a list \u2014 add several receivers and switch between them\n\u2022 Each receiver has its own name, shown on the radar status badge instead of \"LOCAL\"\n\u2022 Indicator light per receiver shows reachability at a glance, with a Test All button\n\u2022 Receiver URLs drop the port when it is the scheme default\n\u2022 Switching a receiver to HTTPS moves port 80 to 443 automatically\n\u2022 Existing receiver settings migrate across automatically"
         },
         {
           "version": "1.0.1",
@@ -34,8 +35,8 @@
       ],
       "iconURL": "https://raw.githubusercontent.com/scavone/skyradar-releases/main/icon.png",
       "version": "1.0.2",
-      "versionDate": "2026-08-01T16:34:53Z",
-      "versionDescription": "",
+      "versionDate": "2026-08-01T16:54:19Z",
+      "versionDescription": "\u2022 Private trackers are now a list \u2014 add several receivers and switch between them\n\u2022 Each receiver has its own name, shown on the radar status badge instead of \"LOCAL\"\n\u2022 Indicator light per receiver shows reachability at a glance, with a Test All button\n\u2022 Receiver URLs drop the port when it is the scheme default\n\u2022 Switching a receiver to HTTPS moves port 80 to 443 automatically\n\u2022 Existing receiver settings migrate across automatically",
       "downloadURL": "https://github.com/scavone/skyradar-releases/releases/download/v1.0.2/SkyRadar.ipa",
       "size": 280764
     }
