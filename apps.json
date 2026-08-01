@@ -14,6 +14,16 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.0.3",
+          "buildVersion": "6",
+          "date": "2026-08-01T20:21:57Z",
+          "size": 290933,
+          "sha256": "3f380fff1b1983e6d8cd972fb8481f6475a437b42f0241d9c55b30894994f3bb",
+          "downloadURL": "https://github.com/scavone/skyradar-releases/releases/download/v1.0.3/SkyRadar.ipa",
+          "minOSVersion": "17.0",
+          "localizedDescription": "\u2022 Aircraft are now projected forward from their last report, so blips sit where the aircraft is rather than where it was\n\u2022 Blips move continuously instead of jumping once per refresh\n\u2022 Turning aircraft are tracked through the turn, not just straight ahead\n\u2022 Markers fade as a report ages, and stop moving once too old to predict honestly\n\u2022 New \"Predict Positions\" switch in Settings under Data Refresh"
+        },
+        {
           "version": "1.0.2",
           "buildVersion": "5",
           "date": "2026-08-01T16:54:19Z",
@@ -34,11 +44,11 @@
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/scavone/skyradar-releases/main/icon.png",
-      "version": "1.0.2",
-      "versionDate": "2026-08-01T16:54:19Z",
-      "versionDescription": "\u2022 Private trackers are now a list \u2014 add several receivers and switch between them\n\u2022 Each receiver has its own name, shown on the radar status badge instead of \"LOCAL\"\n\u2022 Indicator light per receiver shows reachability at a glance, with a Test All button\n\u2022 Receiver URLs drop the port when it is the scheme default\n\u2022 Switching a receiver to HTTPS moves port 80 to 443 automatically\n\u2022 Existing receiver settings migrate across automatically",
-      "downloadURL": "https://github.com/scavone/skyradar-releases/releases/download/v1.0.2/SkyRadar.ipa",
-      "size": 280764
+      "version": "1.0.3",
+      "versionDate": "2026-08-01T20:21:57Z",
+      "versionDescription": "\u2022 Aircraft are now projected forward from their last report, so blips sit where the aircraft is rather than where it was\n\u2022 Blips move continuously instead of jumping once per refresh\n\u2022 Turning aircraft are tracked through the turn, not just straight ahead\n\u2022 Markers fade as a report ages, and stop moving once too old to predict honestly\n\u2022 New \"Predict Positions\" switch in Settings under Data Refresh",
+      "downloadURL": "https://github.com/scavone/skyradar-releases/releases/download/v1.0.3/SkyRadar.ipa",
+      "size": 290933
     }
   ],
   "news": [],
