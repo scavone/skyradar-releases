@@ -14,6 +14,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.0.2",
+          "buildVersion": "4",
+          "date": "2026-08-01T16:34:53Z",
+          "size": 280764,
+          "sha256": "605a42b2ea49f679b33e7d16a74c8c6075b943f3372b2f2a3952f0ee15d2b75c",
+          "downloadURL": "https://github.com/scavone/skyradar-releases/releases/download/v1.0.2/SkyRadar.ipa",
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.4.2",
           "buildVersion": "3",
           "date": "2026-08-01T16:28:42Z",
@@ -33,11 +42,11 @@
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/scavone/skyradar-releases/main/icon.png",
-      "version": "1.4.2",
-      "versionDate": "2026-08-01T16:28:42Z",
+      "version": "1.0.2",
+      "versionDate": "2026-08-01T16:34:53Z",
       "versionDescription": "",
-      "downloadURL": "https://github.com/scavone/skyradar-releases/releases/download/v1.4.2/SkyRadar.ipa",
-      "size": 229386
+      "downloadURL": "https://github.com/scavone/skyradar-releases/releases/download/v1.0.2/SkyRadar.ipa",
+      "size": 280764
     }
   ],
   "news": [],
