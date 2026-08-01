@@ -23,15 +23,6 @@
           "minOSVersion": "17.0"
         },
         {
-          "version": "1.4.2",
-          "buildVersion": "3",
-          "date": "2026-08-01T16:28:42Z",
-          "size": 229386,
-          "sha256": "27f1fc82664a53b1adceb191937fec36d63cfed9c1851ec3c3ff3d25852e9fe6",
-          "downloadURL": "https://github.com/scavone/skyradar-releases/releases/download/v1.4.2/SkyRadar.ipa",
-          "minOSVersion": "17.0"
-        },
-        {
           "version": "1.0.1",
           "buildVersion": "2",
           "date": "2026-08-01T15:53:51Z",
