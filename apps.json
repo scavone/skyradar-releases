@@ -1,0 +1,37 @@
+{
+  "name": "Scavone Private Apps",
+  "identifier": "com.skyradar.source",
+  "subtitle": "Personal sideload source",
+  "description": "Private app source for personal builds. Not affiliated with any vendor.",
+  "website": "",
+  "apps": [
+    {
+      "name": "SkyRadar",
+      "bundleIdentifier": "com.skyradar.app",
+      "developerName": "Joseph Scavone",
+      "subtitle": "ATC-style aircraft radar",
+      "localizedDescription": "A real-time air traffic radar scope for your local airspace.\n\nConnects to a local docker-adsb-ultrafeeder receiver over HTTP or HTTPS, with automatic fallback to public ADSB feeds when the receiver is unreachable. The scope orients to the compass so traffic appears where you are actually looking. Tap any aircraft for callsign, altitude, speed, heading, type, and operator.",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "buildVersion": "1",
+          "date": "2026-08-01T15:38:46Z",
+          "size": 229386,
+          "sha256": "38ec949eaa7de5fb25c76856009814ff44cc57e5036040d954557927bf175e58",
+          "downloadURL": "https://github.com/scavone/skyradar-releases/releases/download/v1.0.1/SkyRadar.ipa",
+          "minOSVersion": "17.0"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/scavone/skyradar-releases/main/icon.png",
+      "version": "1.0.1",
+      "versionDate": "2026-08-01T15:38:46Z",
+      "versionDescription": "",
+      "downloadURL": "https://github.com/scavone/skyradar-releases/releases/download/v1.0.1/SkyRadar.ipa",
+      "size": 229386
+    }
+  ],
+  "news": [],
+  "iconURL": "https://raw.githubusercontent.com/scavone/skyradar-releases/main/icon.png",
+  "sourceURL": "https://raw.githubusercontent.com/scavone/skyradar-releases/main/apps.json"
+}
