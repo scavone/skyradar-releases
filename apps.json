@@ -14,6 +14,16 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.1.0",
+          "buildVersion": "9",
+          "date": "2026-08-01T22:48:49Z",
+          "size": 354536,
+          "sha256": "43d8079e679dbf94f7d2c93ae96f477b9780e9a26b3387e9389b15a214de17e4",
+          "downloadURL": "https://github.com/scavone/skyradar-releases/releases/download/v1.1.0/SkyRadar.ipa",
+          "minOSVersion": "17.0",
+          "localizedDescription": "\u2022 New sky view: tap SKY on the radar to see aircraft overlaid on the real sky through the camera\n\u2022 Turn the phone sideways \u2014 landscape is now supported\n\u2022 Tap any aircraft in the sky for its full details\n\u2022 Separate visibility and minimum-altitude controls, so you can match what you can actually see\n\u2022 Compass correction: tap Calibrate, then tap an aircraft you can genuinely see, and the whole sky lines up\n\u2022 A warning appears when the compass needs a figure-of-eight calibration\n\u2022 Aircraft are drawn accounting for the Earth's curvature, which matters for distant low traffic"
+        },
+        {
           "version": "1.0.4",
           "buildVersion": "8",
           "date": "2026-08-01T20:56:22Z",
@@ -54,11 +64,11 @@
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/scavone/skyradar-releases/main/icon.png",
-      "version": "1.0.4",
-      "versionDate": "2026-08-01T20:56:22Z",
-      "versionDescription": "\u2022 Pinch the radar to zoom in and out \u2014 handy for picking apart a cluster overhead\n\u2022 Zoom settles on round range steps and is remembered, so it survives leaving the app\n\u2022 New orientation chip on the radar: tap to lock the scope north-up, tap again for heading-up\n\u2022 \"Lock North Up\" is also available in Settings under Radar Display",
-      "downloadURL": "https://github.com/scavone/skyradar-releases/releases/download/v1.0.4/SkyRadar.ipa",
-      "size": 299342
+      "version": "1.1.0",
+      "versionDate": "2026-08-01T22:48:49Z",
+      "versionDescription": "\u2022 New sky view: tap SKY on the radar to see aircraft overlaid on the real sky through the camera\n\u2022 Turn the phone sideways \u2014 landscape is now supported\n\u2022 Tap any aircraft in the sky for its full details\n\u2022 Separate visibility and minimum-altitude controls, so you can match what you can actually see\n\u2022 Compass correction: tap Calibrate, then tap an aircraft you can genuinely see, and the whole sky lines up\n\u2022 A warning appears when the compass needs a figure-of-eight calibration\n\u2022 Aircraft are drawn accounting for the Earth's curvature, which matters for distant low traffic",
+      "downloadURL": "https://github.com/scavone/skyradar-releases/releases/download/v1.1.0/SkyRadar.ipa",
+      "size": 354536
     }
   ],
   "news": [],
