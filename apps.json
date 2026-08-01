@@ -14,6 +14,16 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.0.4",
+          "buildVersion": "8",
+          "date": "2026-08-01T20:56:22Z",
+          "size": 299342,
+          "sha256": "a9779841059046ea722db3c92664a1f21fdb5c1942f181f8d789f25b5264fffe",
+          "downloadURL": "https://github.com/scavone/skyradar-releases/releases/download/v1.0.4/SkyRadar.ipa",
+          "minOSVersion": "17.0",
+          "localizedDescription": "\u2022 Pinch the radar to zoom in and out \u2014 handy for picking apart a cluster overhead\n\u2022 Zoom settles on round range steps and is remembered, so it survives leaving the app\n\u2022 New orientation chip on the radar: tap to lock the scope north-up, tap again for heading-up\n\u2022 \"Lock North Up\" is also available in Settings under Radar Display"
+        },
+        {
           "version": "1.0.3",
           "buildVersion": "6",
           "date": "2026-08-01T20:21:57Z",
@@ -44,11 +54,11 @@
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/scavone/skyradar-releases/main/icon.png",
-      "version": "1.0.3",
-      "versionDate": "2026-08-01T20:21:57Z",
-      "versionDescription": "\u2022 Aircraft are now projected forward from their last report, so blips sit where the aircraft is rather than where it was\n\u2022 Blips move continuously instead of jumping once per refresh\n\u2022 Turning aircraft are tracked through the turn, not just straight ahead\n\u2022 Markers fade as a report ages, and stop moving once too old to predict honestly\n\u2022 New \"Predict Positions\" switch in Settings under Data Refresh",
-      "downloadURL": "https://github.com/scavone/skyradar-releases/releases/download/v1.0.3/SkyRadar.ipa",
-      "size": 290933
+      "version": "1.0.4",
+      "versionDate": "2026-08-01T20:56:22Z",
+      "versionDescription": "\u2022 Pinch the radar to zoom in and out \u2014 handy for picking apart a cluster overhead\n\u2022 Zoom settles on round range steps and is remembered, so it survives leaving the app\n\u2022 New orientation chip on the radar: tap to lock the scope north-up, tap again for heading-up\n\u2022 \"Lock North Up\" is also available in Settings under Radar Display",
+      "downloadURL": "https://github.com/scavone/skyradar-releases/releases/download/v1.0.4/SkyRadar.ipa",
+      "size": 299342
     }
   ],
   "news": [],
