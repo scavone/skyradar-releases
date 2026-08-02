@@ -14,6 +14,16 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.1.2",
+          "buildVersion": "12",
+          "date": "2026-08-02T01:08:17Z",
+          "size": 358618,
+          "sha256": "cb49c080a1aeda30a220ca3ac9fb2144b0595a5423578e99c4d2b3207f68c0b2",
+          "downloadURL": "https://github.com/scavone/skyradar-releases/releases/download/v1.1.2/SkyRadar.ipa",
+          "minOSVersion": "17.0",
+          "localizedDescription": "\u2022 Same fixes as 1.1.1, reissued under a new version number so the update reaches SideStore"
+        },
+        {
           "version": "1.1.1",
           "buildVersion": "11",
           "date": "2026-08-02T01:01:25Z",
@@ -74,11 +84,11 @@
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/scavone/skyradar-releases/main/icon.png",
-      "version": "1.1.1",
-      "versionDate": "2026-08-02T01:01:25Z",
-      "versionDescription": "\u2022 Fixed the horizon line tilting as you panned left and right\n\u2022 Fixed the sky view camera staying portrait when the phone was turned, which left the image and the aircraft markers disagreeing\n\u2022 The camera image now follows the phone as you rotate it\n\u2022 Aircraft should now sit in the correct part of the sky as you look around",
-      "downloadURL": "https://github.com/scavone/skyradar-releases/releases/download/v1.1.1/SkyRadar.ipa",
-      "size": 358617
+      "version": "1.1.2",
+      "versionDate": "2026-08-02T01:08:17Z",
+      "versionDescription": "\u2022 Same fixes as 1.1.1, reissued under a new version number so the update reaches SideStore",
+      "downloadURL": "https://github.com/scavone/skyradar-releases/releases/download/v1.1.2/SkyRadar.ipa",
+      "size": 358618
     }
   ],
   "news": [],
