@@ -15,13 +15,13 @@
       "versions": [
         {
           "version": "1.1.1",
-          "buildVersion": "10",
-          "date": "2026-08-01T23:09:38Z",
-          "size": 357114,
-          "sha256": "003e42b94417e4b2b6dbb539f69007d0597b87bc789fab3d436bdc5c9c8ba3ca",
+          "buildVersion": "11",
+          "date": "2026-08-02T01:01:25Z",
+          "size": 358617,
+          "sha256": "ca21d5d0643bff8058969d85cb5703122cda1cf15cdbc75c4a72bcfc792f0ee0",
           "downloadURL": "https://github.com/scavone/skyradar-releases/releases/download/v1.1.1/SkyRadar.ipa",
           "minOSVersion": "17.0",
-          "localizedDescription": "\u2022 Fixed the sky view camera staying portrait when the phone was turned, which left the image and the aircraft markers disagreeing\n\u2022 The camera image now follows the phone as you rotate it"
+          "localizedDescription": "\u2022 Fixed the horizon line tilting as you panned left and right\n\u2022 Fixed the sky view camera staying portrait when the phone was turned, which left the image and the aircraft markers disagreeing\n\u2022 The camera image now follows the phone as you rotate it\n\u2022 Aircraft should now sit in the correct part of the sky as you look around"
         },
         {
           "version": "1.1.0",
@@ -75,10 +75,10 @@
       ],
       "iconURL": "https://raw.githubusercontent.com/scavone/skyradar-releases/main/icon.png",
       "version": "1.1.1",
-      "versionDate": "2026-08-01T23:09:38Z",
-      "versionDescription": "\u2022 Fixed the sky view camera staying portrait when the phone was turned, which left the image and the aircraft markers disagreeing\n\u2022 The camera image now follows the phone as you rotate it",
+      "versionDate": "2026-08-02T01:01:25Z",
+      "versionDescription": "\u2022 Fixed the horizon line tilting as you panned left and right\n\u2022 Fixed the sky view camera staying portrait when the phone was turned, which left the image and the aircraft markers disagreeing\n\u2022 The camera image now follows the phone as you rotate it\n\u2022 Aircraft should now sit in the correct part of the sky as you look around",
       "downloadURL": "https://github.com/scavone/skyradar-releases/releases/download/v1.1.1/SkyRadar.ipa",
-      "size": 357114
+      "size": 358617
     }
   ],
   "news": [],
