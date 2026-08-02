@@ -14,6 +14,16 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.1.3",
+          "buildVersion": "13",
+          "date": "2026-08-02T02:21:22Z",
+          "size": 358424,
+          "sha256": "00740575dda815df21ee71c9f0e4d34eb30892db567ee17d45ae0bcd1962115c",
+          "downloadURL": "https://github.com/scavone/skyradar-releases/releases/download/v1.1.3/SkyRadar.ipa",
+          "minOSVersion": "17.0",
+          "localizedDescription": "\u2022 Fixed aircraft appearing below the horizon in landscape \u2014 the sky view was flipped 180\u00b0 when the phone was turned sideways\n\u2022 Fixed aircraft sitting at the wrong height above the horizon, in both orientations\n\u2022 Elevation now matches what the camera actually shows, rather than assuming the lens covers more of the frame than it does"
+        },
+        {
           "version": "1.1.2",
           "buildVersion": "12",
           "date": "2026-08-02T01:08:17Z",
@@ -84,11 +94,11 @@
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/scavone/skyradar-releases/main/icon.png",
-      "version": "1.1.2",
-      "versionDate": "2026-08-02T01:08:17Z",
-      "versionDescription": "\u2022 Same fixes as 1.1.1, reissued under a new version number so the update reaches SideStore",
-      "downloadURL": "https://github.com/scavone/skyradar-releases/releases/download/v1.1.2/SkyRadar.ipa",
-      "size": 358618
+      "version": "1.1.3",
+      "versionDate": "2026-08-02T02:21:22Z",
+      "versionDescription": "\u2022 Fixed aircraft appearing below the horizon in landscape \u2014 the sky view was flipped 180\u00b0 when the phone was turned sideways\n\u2022 Fixed aircraft sitting at the wrong height above the horizon, in both orientations\n\u2022 Elevation now matches what the camera actually shows, rather than assuming the lens covers more of the frame than it does",
+      "downloadURL": "https://github.com/scavone/skyradar-releases/releases/download/v1.1.3/SkyRadar.ipa",
+      "size": 358424
     }
   ],
   "news": [],
